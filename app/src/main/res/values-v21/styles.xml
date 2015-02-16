@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Material.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/MyActionBar21</item>
+    </style>
+
+    <style name="MyActionBar21"
+        parent="android:Widget.Material.ActionBar.Solid">
+        <item name="android:background">@color/azulizv</item>
+    </style>
+</resources>
